@@ -1,3 +1,8 @@
+# PS2X Differential Drive Robot Control Project
+
+-------------------------------------------------------------------
+Original PS2X Repository Embedded readme
+PS2X Website: http://www.billporter.info/playstation-2-controller-arduino-library-v1-0/
 /******************************************************************
 *  Super amazing PS2 controller Arduino Library v1.8
 *		details and example sketch: 
